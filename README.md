@@ -1,5 +1,5 @@
 # Smart Recipe Generator
-Link:https://smart-recipe-maker-assignment-submi.vercel.app/
+Link:https://smart-recipe-maker-assignment-submi-omega.vercel.app/
 A modern web app that matches recipes to the ingredients you already have, with smart substitution suggestions for anything you're missing.
 
 ## Features
